@@ -1,6 +1,5 @@
 
-<img height="350"
-     src="https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg" />
+<img src="https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg" />
 
 <h1 align="center">Hi 👋, I'm Ulises</h1>
 <h3 align="center">A Fullstack developer and Computer Science student from Argentina</h3>
