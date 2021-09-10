@@ -8,7 +8,7 @@ I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, M
 
 <img align="right" alt="GIF" height="70%" width="20%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
-- I’m currently working on **Web Development (MERN Stack)**
+- I’m currently working on **Web Development (PERN Stack)**
 
 
 
