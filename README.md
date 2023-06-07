@@ -18,6 +18,6 @@ I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, M
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin/in/ulises-scardino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ulises-scardino/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ulises-scardino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ulises-scardino/" height="30" width="40" /></a>
 <a href="mailto:ulisesscardino@gmail.com"><img align="center" height="40 width="40" src="https://img.icons8.com/color/48/000000/gmail--v2.png"/>
 </p>
